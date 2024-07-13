@@ -36,10 +36,6 @@ Contributions
 
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Contact
 
-For any inquiries or suggestions, please contact Sasmitha at sasmitha@example.com.
+For any inquiries or suggestions, please contact Sasmitha at sasmithab@gmail.com.
